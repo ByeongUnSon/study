@@ -1,5 +1,12 @@
 package lcson.stack.test;
 
+/**
+ * 
+ * Comment Add
+ * 
+ * @author LcSon
+ *
+ */
 public class LcStack {
 		
 	private Object[] stack;
